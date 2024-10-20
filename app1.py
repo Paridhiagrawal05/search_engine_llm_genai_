@@ -5,7 +5,7 @@ from langchain_community.tools import ArxivQueryRun, WikipediaQueryRun, DuckDuck
 from langchain.agents import initialize_agent, AgentType
 from langchain.callbacks import StreamlitCallbackHandler
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenV
 
 # Load environment variables
 load_dotenv()
